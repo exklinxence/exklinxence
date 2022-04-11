@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @exklinxence
 - 👀 I’m interested in Devops and cloud Technologies
-- 🌱 I’m currently learning Kubernetes
-- 💞️ I’m looking to collaborate on Kubernetes 
+- 🌱 I’m currently working Kubernetes and other cloud native technologies
+- 💞️ I’m looking to collaborate on Kubernetes and other iac tools
 - 📫 You can reach me on onyetubecollins@gmail.com
 
 <!---
